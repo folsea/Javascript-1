@@ -1,2 +1,2 @@
 # Javascript
-java prjocts
+java projects
